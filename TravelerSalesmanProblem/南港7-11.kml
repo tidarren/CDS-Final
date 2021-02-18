@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>南港7-11</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>南港7-11</name>
+      <Placemark>
+        <name>7-ELEVEN 中坡門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5836468,25.0429342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 中研門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6126658,25.0408699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 中貿門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6151962,25.0594054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 玉成門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.592243,25.0540209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 玉德門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5836116,25.0450372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 向揚門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5942341,25.0557598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 庄研門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6168858,25.0383152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 忠陽門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.593946,25.0508386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 昆陽門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5939771,25.0502428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 林坊門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5870443,25.0462915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 研究門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6155114,25.0476045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Eleven 胡適門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6157955,25.0441689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 香城門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6133008,25.0551289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 凱松門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5802527,25.0504317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港泰門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6060999,25.0529057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港高鐵門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6070656,25.0531779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港捷門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.61759,25.0560908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港勝門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6156184,25.0562386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港運門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.581798,25.0489348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港德門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5915664,25.0396998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港興門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.60574,25.0569295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港環球門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6063531,25.0529305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 港麗門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.604518,25.0525582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 華技門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6141072,25.0346744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 雄強門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5890698,25.0491015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 慈愛門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6009048,25.0571308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 新福玉門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5878188,25.0416155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 經貿門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6137988,25.0560285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 聯成門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5941829,25.0490942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 聯坊門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.588323,25.0464321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 馥樺門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6140765,25.059111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 鵬馳門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5898758,25.053188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 鑫貿門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6162094,25.058852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-ELEVEN 耀港門市</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.6162777,25.0520162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
